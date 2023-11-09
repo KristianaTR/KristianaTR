@@ -1,16 +1,24 @@
-### Hi there 👋
+Hi there 👋 
+### Welcome to my GitHub profile! 👋 
+I'm Kristiana, a passionate developer 😁 exploring the vast realms of coding. 
+Here, you'll find a collection of my projects, spanning from beginner-friendly tasks to more intricate undertakings.
+In this repository, I've stored all my projects throughout my coding journey, including:
+💫 Coding classes
+💫 Mentorship tasks
+💫 Learning projects
+💫 Bootcamps
+💫 Internship experiences
+  
+As they say, "From zero to hero 🦸‍♀️." 
+In some sense, I feel like a hero, but honestly, I still need to work hard to reach that stage 🌟.
 
-<!--
-**KristianaTR/KristianaTR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+To be continued...
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+
+
+
+
