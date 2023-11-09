@@ -1,4 +1,4 @@
-Hi there 👋 
+### Hi there 👋 
 ### Welcome to my GitHub profile! 👋 
 I'm Kristiana, a passionate developer 😁 exploring the vast realms of coding. 
 Here, you'll find a collection of my projects, spanning from beginner-friendly tasks to more intricate undertakings.
